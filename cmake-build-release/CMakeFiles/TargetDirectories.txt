@@ -1,3 +1,0 @@
-/home/anduin/Desktop/MyFPS/cmake-build-release/CMakeFiles/rebuild_cache.dir
-/home/anduin/Desktop/MyFPS/cmake-build-release/CMakeFiles/edit_cache.dir
-/home/anduin/Desktop/MyFPS/cmake-build-release/CMakeFiles/MyFPS.dir

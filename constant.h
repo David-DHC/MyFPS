@@ -20,12 +20,12 @@ float deltaTime = 0.0f;	// time between current frame and last frame
 float lastFrame = 0.0f;
 
 // shaderPath
-const char * vertexPath = "../shader.vs";
-const char * fragmentPath = "../shader.fs";
+const char * vertexPath = "shader.vs";
+const char * fragmentPath = "shader.fs";
 
 // textures
-std::string myContainer = "../container.png";
-std::string myAwesomeFace = "../alliance.png";
+std::string myContainer = "container.png";
+std::string myAwesomeFace = "alliance.png";
 
 // set up vertex data (and buffer(s)) and configure vertex attributes
 // ------------------------------------------------------------------
