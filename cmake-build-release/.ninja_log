@@ -1,0 +1,4 @@
+# ninja log v5
+1	2694	1642905190208692397	CMakeFiles/MyFPS.dir/stb_image.cpp.o	38be5888c30ea52c
+1	833	1642905297862804764	CMakeFiles/MyFPS.dir/main.cpp.o	37fb3ba47dbac1e7
+833	889	1642905297918803800	MyFPS	6432fde9d9ae88ba

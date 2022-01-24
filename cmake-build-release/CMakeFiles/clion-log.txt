@@ -1,0 +1,4 @@
+/home/anduin/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/home/anduin/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/ninja/linux/ninja cmake -B . -S . -DCMAKE_TOOLCHAIN_FILE=~/dev/vcpkg/scripts/buildsystems/vcpkg.cmake -DCMAKE_BUILD_TYPE=Release -G Ninja /home/anduin/Desktop/MyFPS
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/anduin/Desktop/MyFPS/cmake-build-release
